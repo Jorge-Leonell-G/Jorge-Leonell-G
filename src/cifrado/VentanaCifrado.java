@@ -34,7 +34,7 @@ import javax.swing.JFileChooser;
  */
 public class VentanaCifrado extends javax.swing.JFrame {
 
-    /**
+    /*
      * Creates new form VentanaCifrado
      */
     public VentanaCifrado() {
